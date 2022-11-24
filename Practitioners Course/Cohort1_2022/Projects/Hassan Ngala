@@ -1,0 +1,32 @@
+## Web application for Flood risk disaster risk mitigation
+
+#### Background Information
+
+There is a lot of work that has been done around modelling factors influencing vulnerability of households  to flood risk but none of the works(model results ) 
+or recommendations are easily accessible to users/primary duty bearers . 
+This project therefore aims towards bridging this gap of information access to targetted users by providing easy  to use and highly interactive 
+interface/tool to intended users to be able to quickly ; 
+• Assess the level of vulnearbility of households and therefore able to estimate population at risk of floods.
+• In future the tool can be enhanced by triangulating it with other data sources such as level of  vulnerability to floods and risk of snake bites
+(which currently is a grey research area /gap) 
+
+
+#### Goal of the project (In development)
+The project aims to create a web app for a model to predict vulnearbility of households to flood risks . 
+The web app will be built using python Dash and plotly frameworks to provide an easy to use interface to  stakeholders . 
+Currently there is very limited and interactive tools for predicting households vulnerability to floods
+
+
+
+#### Who will be using the results of this project and for making what decisions?
+Kilifi County government,NDMA and Local Community CBOs working on helping communities at risk of  floods
+
+#### Expected Deliverables
+1. Web application
+- Exploratory data anlysis of social and economic factors for communities at risk of floods 
+- Model to explain the contribution of the socio-economic factors to flood risk
+- Plotly and Dash dashboard
+
+#### Mentors (To be added by ABW Team)
+
+#### References
